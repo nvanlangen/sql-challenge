@@ -3,7 +3,7 @@ Employee Database: A Mystery in Two Parts
 
 # Tasks
 
-* Created Postgres database employees_db
+* Created Postgres database employee_db
 
 * Used quickdatabasediagrams.com to generate ERD and schema sql statements
 
@@ -33,7 +33,7 @@ Employee Database: A Mystery in Two Parts
 
 * Created jupyter notebook Employee.ipynb
 
-* Imported tables from Postgres employees_db into Data Frames
+* Imported tables from Postgres employee_db into Data Frames
 
 * Created Salary Range Histogram with 8 salary ranges
 
